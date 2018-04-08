@@ -1,0 +1,3 @@
+/home/walter/Vision/Practica_1/barras/build/CMakeFiles/rebuild_cache.dir
+/home/walter/Vision/Practica_1/barras/build/CMakeFiles/edit_cache.dir
+/home/walter/Vision/Practica_1/barras/build/CMakeFiles/barras.dir

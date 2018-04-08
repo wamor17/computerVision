@@ -1,0 +1,41 @@
+para ro=0 hasta rowsCollector
+para theta=0 grados
+	si collector[ro][theta] == 255
+		para x=0 hasta x<rowsImage
+			si  sin(theta) > 0
+				y = (ro - x*cos(theta))/sin(theta)
+
+				si y >= 0 && y < cols 
+					image[x][y] = 255
+			}
+	}
+}
+
+umbral = 100
+para i=0 hasta rowsCollector
+	para j=0 hasta 180
+		si collector[i][j] >= umbral
+			collector[i][j] = 255;
+		sino
+			collector[i][j] = 0;
+		fin si
+	fin para
+fin para
+
+
+para i=0 hasta rows
+para j=0 hasta cols
+	si pixel(i,j) == 255 
+		para theta=0 hasta 180
+			rho = i*cos(theta) + j*sin(theta)
+			si rho >= 0
+				collector[p][theta]++
+				si collector[p][theta] > mayor
+					mayor = collector[p][theta]
+				fin si
+			fin si
+		fin para
+	fin si
+fin para
+fin para
+
