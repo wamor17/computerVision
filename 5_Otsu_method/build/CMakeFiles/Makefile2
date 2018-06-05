@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/walter/MEGAsync/Vision/5_Otsu_method
+CMAKE_SOURCE_DIR = /home/walter/MEGAsync/computerVision/5_Otsu_method
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/walter/MEGAsync/Vision/5_Otsu_method/build
+CMAKE_BINARY_DIR = /home/walter/MEGAsync/computerVision/5_Otsu_method/build
 
 #=============================================================================
 # Target rules for target CMakeFiles/otsu.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/walter/MEGAsync/Vision/5_Otsu_method/build
 CMakeFiles/otsu.dir/all:
 	$(MAKE) -f CMakeFiles/otsu.dir/build.make CMakeFiles/otsu.dir/depend
 	$(MAKE) -f CMakeFiles/otsu.dir/build.make CMakeFiles/otsu.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/walter/MEGAsync/Vision/5_Otsu_method/build/CMakeFiles --progress-num=1,2 "Built target otsu"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/walter/MEGAsync/computerVision/5_Otsu_method/build/CMakeFiles --progress-num=1,2 "Built target otsu"
 .PHONY : CMakeFiles/otsu.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/otsu.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/otsu.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/walter/MEGAsync/Vision/5_Otsu_method/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/walter/MEGAsync/computerVision/5_Otsu_method/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/otsu.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/walter/MEGAsync/Vision/5_Otsu_method/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/walter/MEGAsync/computerVision/5_Otsu_method/build/CMakeFiles 0
 .PHONY : CMakeFiles/otsu.dir/rule
 
 # Convenience name for target.

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/walter/MEGAsync/Vision/5_Otsu_method/otsu.cpp
+/home/walter/MEGAsync/computerVision/5_Otsu_method/otsu.cpp
 iostream
 -
 stdio.h

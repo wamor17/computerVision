@@ -1,3 +1,3 @@
-/home/walter/MEGAsync/Vision/5_Otsu_method/build/CMakeFiles/edit_cache.dir
-/home/walter/MEGAsync/Vision/5_Otsu_method/build/CMakeFiles/rebuild_cache.dir
-/home/walter/MEGAsync/Vision/5_Otsu_method/build/CMakeFiles/otsu.dir
+/home/walter/MEGAsync/computerVision/5_Otsu_method/build/CMakeFiles/edit_cache.dir
+/home/walter/MEGAsync/computerVision/5_Otsu_method/build/CMakeFiles/rebuild_cache.dir
+/home/walter/MEGAsync/computerVision/5_Otsu_method/build/CMakeFiles/otsu.dir

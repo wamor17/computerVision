@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/walter/MEGAsync/Vision/Practica_10/hough.cpp" "/home/walter/MEGAsync/Vision/Practica_10/build/CMakeFiles/hough.dir/hough.cpp.o"
+  "/home/walter/MEGAsync/computerVision/10_Hough_transform/hough.cpp" "/home/walter/MEGAsync/computerVision/10_Hough_transform/build/CMakeFiles/hough.dir/hough.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

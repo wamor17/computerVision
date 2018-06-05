@@ -1,4 +1,4 @@
-# Install script for directory: /home/walter/MEGAsync/Vision/Practica_10
+# Install script for directory: /home/walter/MEGAsync/computerVision/10_Hough_transform
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/walter/MEGAsync/Vision/Practica_10/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/walter/MEGAsync/computerVision/10_Hough_transform/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

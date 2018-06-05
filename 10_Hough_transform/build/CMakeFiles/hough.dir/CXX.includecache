@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/walter/MEGAsync/Vision/Practica_10/hough.cpp
+/home/walter/MEGAsync/computerVision/10_Hough_transform/hough.cpp
 iostream
 -
 cstdlib

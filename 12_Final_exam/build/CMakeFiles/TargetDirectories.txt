@@ -1,3 +1,0 @@
-/home/walter/MEGAsync/Vision/examen_practico/build/CMakeFiles/edit_cache.dir
-/home/walter/MEGAsync/Vision/examen_practico/build/CMakeFiles/rebuild_cache.dir
-/home/walter/MEGAsync/Vision/examen_practico/build/CMakeFiles/examen.dir

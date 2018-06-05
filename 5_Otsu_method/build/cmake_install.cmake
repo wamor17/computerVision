@@ -1,4 +1,4 @@
-# Install script for directory: /home/walter/MEGAsync/Vision/5_Otsu_method
+# Install script for directory: /home/walter/MEGAsync/computerVision/5_Otsu_method
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/walter/MEGAsync/Vision/5_Otsu_method/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/walter/MEGAsync/computerVision/5_Otsu_method/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

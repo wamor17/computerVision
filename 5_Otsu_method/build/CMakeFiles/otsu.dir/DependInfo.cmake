@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/walter/MEGAsync/Vision/5_Otsu_method/otsu.cpp" "/home/walter/MEGAsync/Vision/5_Otsu_method/build/CMakeFiles/otsu.dir/otsu.cpp.o"
+  "/home/walter/MEGAsync/computerVision/5_Otsu_method/otsu.cpp" "/home/walter/MEGAsync/computerVision/5_Otsu_method/build/CMakeFiles/otsu.dir/otsu.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
